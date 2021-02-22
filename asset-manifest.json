@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/food-delivery-client/static/css/main.54d17cba.chunk.css",
+    "main.js": "/food-delivery-client/static/js/main.e630380f.chunk.js",
+    "main.js.map": "/food-delivery-client/static/js/main.e630380f.chunk.js.map",
+    "runtime-main.js": "/food-delivery-client/static/js/runtime-main.ecdea44e.js",
+    "runtime-main.js.map": "/food-delivery-client/static/js/runtime-main.ecdea44e.js.map",
+    "static/js/2.40393e69.chunk.js": "/food-delivery-client/static/js/2.40393e69.chunk.js",
+    "static/js/2.40393e69.chunk.js.map": "/food-delivery-client/static/js/2.40393e69.chunk.js.map",
+    "index.html": "/food-delivery-client/index.html",
+    "static/css/main.54d17cba.chunk.css.map": "/food-delivery-client/static/css/main.54d17cba.chunk.css.map",
+    "static/js/2.40393e69.chunk.js.LICENSE.txt": "/food-delivery-client/static/js/2.40393e69.chunk.js.LICENSE.txt",
+    "static/media/angle_right.26a84118.svg": "/food-delivery-client/static/media/angle_right.26a84118.svg",
+    "static/media/burger.c1f2e18a.svg": "/food-delivery-client/static/media/burger.c1f2e18a.svg",
+    "static/media/busket.ab5cc6e9.svg": "/food-delivery-client/static/media/busket.ab5cc6e9.svg",
+    "static/media/curry.0b8d9c46.svg": "/food-delivery-client/static/media/curry.0b8d9c46.svg",
+    "static/media/dish.87dc7589.png": "/food-delivery-client/static/media/dish.87dc7589.png",
+    "static/media/filter.bec2500e.svg": "/food-delivery-client/static/media/filter.bec2500e.svg",
+    "static/media/grill.9f460286.svg": "/food-delivery-client/static/media/grill.9f460286.svg",
+    "static/media/hot-dog.bfe06b9f.svg": "/food-delivery-client/static/media/hot-dog.bfe06b9f.svg",
+    "static/media/illustration.d6a5b81e.png": "/food-delivery-client/static/media/illustration.d6a5b81e.png",
+    "static/media/logo.a7d9e9c3.svg": "/food-delivery-client/static/media/logo.a7d9e9c3.svg",
+    "static/media/sandwich.5a9969ec.svg": "/food-delivery-client/static/media/sandwich.5a9969ec.svg",
+    "static/media/search.165ee60e.svg": "/food-delivery-client/static/media/search.165ee60e.svg",
+    "static/media/shrimp.cdddb876.svg": "/food-delivery-client/static/media/shrimp.cdddb876.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ecdea44e.js",
+    "static/js/2.40393e69.chunk.js",
+    "static/css/main.54d17cba.chunk.css",
+    "static/js/main.e630380f.chunk.js"
+  ]
+}
