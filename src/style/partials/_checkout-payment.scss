@@ -1,0 +1,25 @@
+.checkout-payment {
+  margin-top: 70px;
+  &__info {
+    display: flex;
+    .checkout-tabs {
+      width: 50%;
+    }
+    .checkout-delivery {
+      width: 50%;
+      .title {
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 33px;
+        color: $text;
+        margin-bottom: 46px;
+      }
+      &__row {
+        display: flex;
+        .input-container:first-child {
+          margin-right: 20px;
+        }
+      }
+    }
+  }
+}

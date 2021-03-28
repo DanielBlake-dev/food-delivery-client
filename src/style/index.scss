@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap');
+
+// Base
+@import './base/vars';
+@import './base/buttons';
+
+// Partials
+@import './partials/header';
+@import './partials/promo';
+@import './partials/dishes';
+@import './partials/checkout';
+@import './partials/count';
+@import './partials/checkout-tabs';
+@import './partials/input';
+@import './partials/checkout-payment';
+@import './partials/checkout-finish';
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  outline: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  overflow-x: hidden;
+  font-family: 'Nunito';
+  padding: 50px 100px;
+}

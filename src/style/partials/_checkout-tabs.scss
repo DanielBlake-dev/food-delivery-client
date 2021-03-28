@@ -1,0 +1,29 @@
+.checkout-tabs {
+  &__buttons {
+    display: flex;
+    margin-bottom: 50px;
+    &-item.active {
+      background-color: $main;
+      color: #ffffff;
+    }
+    &-item {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 45px;
+      padding: 14px 60px;
+      background-color: transparent;
+      border-radius: 50px;
+      border: 2px solid $main;
+      margin-right: 12px;
+
+      font-family: $nunito;
+      font-weight: 600;
+      font-size: 14px;
+      line-height: 19px;
+      color: $text;
+      cursor: pointer;
+      transition: all 0.25s ease;
+    }
+  }
+}
